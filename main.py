@@ -1666,7 +1666,7 @@ print("Done")
 #     https://t.me/MehranME_Channel
 #
 #  💻 مخزن گیت‌هاب:
-#     https://github.com/USERNAME/REPO
+#     https://github.com/Mehran-nouri/Py-Power-AR
 #
 #  📝 توضیح:
 #  تخته هوشمند واقعیت افزوده با تشخیص دست.
